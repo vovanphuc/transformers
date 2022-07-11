@@ -336,6 +336,7 @@ _import_structure = {
         "Wav2Vec2FeatureExtractor",
         "Wav2Vec2Processor",
         "Wav2Vec2Tokenizer",
+        "Wav2Vec2WordpieceTokenizer",
     ],
     "models.wav2vec2_conformer": [
         "WAV2VEC2_CONFORMER_PRETRAINED_CONFIG_ARCHIVE_MAP",
